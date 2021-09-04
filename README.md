@@ -7,16 +7,12 @@
 
 ### I'm Siwei Zhou
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
+- 一个大龄转行的前端.
+- 🌱 目前在蒙牛北京工作.
 - ⚡ Fun fact: Data Analysis📊
 - 
 ### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
+- [掘金](https://)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
