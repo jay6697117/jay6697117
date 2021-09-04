@@ -5,7 +5,7 @@
 ![info](https://github-readme-stats.vercel.app/api?username=jay6697117&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 ### 关于我
-- [掘金](https://juejin.cn/user/3139860939677048)
+- [掘金: 张小灰](https://juejin.cn/user/3139860939677048)
 - [微信](https://juejin.cn/user/3139860939677048)
 
 ⭐️ From [jay6697117](https://github.com/jay6697117)
