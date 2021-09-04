@@ -7,6 +7,6 @@
 ### 关于我
 - [掘金: 张小灰](https://juejin.cn/user/3139860939677048)
 - 微信号: zjh871506263
-![avatar](./weixin.png)
+![markdown](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png 'markdown')
 
 ⭐️ From [jay6697117](https://github.com/jay6697117)
