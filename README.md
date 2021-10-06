@@ -1,11 +1,11 @@
-<div>
+<!-- <div> -->
 ### 关于我
 - [掘金: 张小灰](https://juejin.cn/user/3139860939677048)
 - 微信号: zjh871506263
 - 大家好我是张金辉 👋
 - 🌱一个大龄转行的前端开发.
 - 🌱 目前在蒙牛北京工作.
-</div>
+<!-- </div> -->
 
 <p  align="center">
 <a href="javaScript:">
@@ -15,9 +15,9 @@
 </p>
 
 ### 🔭 I’m currently working on:
-<a href="https://github.com/SilurianYang/cc-ui-uni-app-zjh">
+<a href="https://github.com/jay6697117/cc-ui-uni-app-zjh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jay6697117&repo=cc-ui-uni-app-zjh" />
 </a>
-<a href="https://github.com/SilurianYang/form-generator">
+<a href="https://github.com/jay6697117/form-generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jay6697117&repo=form-generator" />
 </a>
