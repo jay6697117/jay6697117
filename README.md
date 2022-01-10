@@ -22,4 +22,5 @@
   </a>
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=wangrongding&theme=github)
+### jay6697117趋势图
+![](https://activity-graph.herokuapp.com/graph?username=jay6697117&theme=github)
