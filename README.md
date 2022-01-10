@@ -15,9 +15,11 @@
 ![](https://activity-graph.herokuapp.com/graph?username=wangrongding&theme=github)
 
 ### 🔭 I’m currently working on:
-<a href="https://github.com/jay6697117/cc-ui-uni-app-zjh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jay6697117&repo=cc-ui-uni-app-zjh" />
-</a>
-<a href="https://github.com/jay6697117/form-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jay6697117&repo=form-generator" />
-</a>
+<p align="center">
+  <a href="https://github.com/jay6697117/cc-ui-uni-app-zjh">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jay6697117&repo=cc-ui-uni-app-zjh" />
+  </a>
+  <a href="https://github.com/jay6697117/form-generator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jay6697117&repo=form-generator" />
+  </a>
+</p>
