@@ -12,8 +12,9 @@
   </a>
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=wangrongding&theme=github)
-
+<p align="center">
+  ![](https://activity-graph.herokuapp.com/graph?username=wangrongding&theme=github)
+</p>
 ### 🔭 I’m currently working on:
 <p align="center">
   <a href="https://github.com/jay6697117/cc-ui-uni-app-zjh">
