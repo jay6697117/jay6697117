@@ -12,9 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  ![](https://activity-graph.herokuapp.com/graph?username=wangrongding&theme=github)
-</p>
 ### 🔭 I’m currently working on:
 <p align="center">
   <a href="https://github.com/jay6697117/cc-ui-uni-app-zjh">
@@ -24,3 +21,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jay6697117&repo=form-generator" />
   </a>
 </p>
+
+![](https://activity-graph.herokuapp.com/graph?username=wangrongding&theme=github)
