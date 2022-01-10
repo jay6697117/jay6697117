@@ -22,5 +22,5 @@
   </a>
 </p>
 
-### jay6697117趋势图
+### 日活图
 ![](https://activity-graph.herokuapp.com/graph?username=jay6697117&theme=github)
